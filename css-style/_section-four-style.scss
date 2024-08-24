@@ -1,0 +1,140 @@
+.sec-4 {
+    background-image: url(../imges/3654606-Recovered-Recovered-Recovered.png);
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    box-sizing: border-box;
+    background-position: -37px -173px;
+}
+
+#carouselExample {
+
+    text-align: center;
+}
+
+.img-size2 {
+    width: 350px !important;
+    height: 400px !important;
+    
+}
+
+
+
+
+
+
+
+/* */
+
+.owl-carousel .item {
+    text-align: center;
+    padding: 20px;
+}
+
+.owl-carousel .item img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+.owl-nav {
+    
+    font-size: 50px;
+
+}
+
+
+.owl-next {
+    color: rgb(226, 212, 212) !important;
+    background-color: transparent !important;
+    position: absolute;
+    bottom: 195px;
+    left: 1157px;
+    
+}
+
+
+
+.owl-prev {
+    position: absolute;
+    top: 160px;
+    left: 45px;
+    color: rgb(226, 212, 212) !important;
+    background-color: transparent !important;
+
+}
+
+.owl-align {
+    margin-left: 38px;
+}
+
+
+@media only screen and (width: 360px) {
+    .sec-4 {
+
+        position: absolute;
+        top: 2350px !important;
+    }
+}
+
+
+@media only screen and (min-width: 374px) and (max-width: 400px) {
+    .sec-4 {
+
+        position: absolute;
+        top: 2250px !important;
+    }
+}
+
+
+@media only screen and (min-width: 400px) and (max-width: 434px) {
+    .sec-4 {
+        
+        position: absolute;
+        top: 2250px !important;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 554px) {
+    .sec-4 {
+        position: absolute;
+        top: 1880px;
+    }
+}
+
+@media only screen and (min-width: 554px) and (max-width: 576px) {
+    .sec-4 {
+        position: absolute;
+        top: 1800px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 600px) {
+    .sec-4 {
+        position: absolute;
+        top: 1885px !important;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 681px) {
+    .sec-4 {
+        position: absolute;
+        top: 1986px !important;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .sec-4 {
+        position: absolute;
+        top: 1932px !important;
+    }
+}
+
+
+@media only screen and (min-width: 682px) and (max-width: 768px) {
+    .sec-4 {
+        position: absolute;
+        top: 1987px !important;
+    }
+}

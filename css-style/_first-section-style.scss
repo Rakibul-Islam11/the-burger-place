@@ -1,0 +1,131 @@
+.main-1 {
+    width: 100%;
+    height: 850px;
+    background-image: url('../imges/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: 100% 94% ;
+    overflow: hidden;
+    background-size: cover cover;
+    box-sizing: border-box;
+
+}
+
+
+.nav-link {
+    color: white !important;
+    background-color: #910115;
+    border-radius: 5px;
+    
+
+
+}
+
+.nav-link {
+    position: relative;
+}
+
+
+
+
+.nav-item:hover .nav-link {
+    border-radius: 5px;
+    background-color: #910115;
+    transition: 0.5s;
+    transform: scale(1);
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+
+.first-page-text {
+    padding-top: 201px;
+    
+}
+
+.first-page-text h1 {
+    font-size: 50px;
+}
+
+
+
+.qq {
+    width: 90px;
+}
+
+.firstbtn {
+    margin-top: 20px;
+}
+
+.btn-size {
+    background-color: #8c9e00 !important;
+    padding: 4px 60px !important;
+    font-size: 30px !important;
+    color: white !important;
+    transition: 0.5s !important;
+}
+
+.btn-size:hover {
+    background-color: blue !important;
+}
+
+/* 
+.my-button {
+    padding: 20px 90px;
+    background-color: #8c9e00;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.my-button:hover {
+    background-color: #0056b3;
+}
+
+*/
+
+
+
+
+
+@media only screen and (min-width: 1439px) {
+    .main-1 {
+        background-position: 100% 100%;
+        background-size: cover;
+        height: 860px;
+        background-position: 100% 94%;
+        
+    }
+
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .main-1 {
+        height: 750px;
+    }
+
+    .menu-of-sticky {
+        position: fixed !important;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .firstbtn {
+        width: 270px;
+        margin-top: 88px;
+        margin-left: -5px;
+    }
+    .first-page-text h1 {
+        font-size: 40px;
+    }
+    
+}
+
+
+

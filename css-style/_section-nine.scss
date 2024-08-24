@@ -1,0 +1,144 @@
+.ppp {
+    width: 100%;
+    height: auto !important;
+    background-color: #0e0a17;
+    overflow: hidden;
+    transform: translate(0px, -24px);
+}
+
+.form-position {
+    margin-top: 100px;
+}
+
+.row-position-3 {
+    margin-top: 60px !important;
+
+}
+
+.row-position-4 {
+    margin-left: 50px !important;
+}
+
+.p-size-3 {
+    font-size: 22px;
+    transform: translate(6px, -5px);
+
+}
+
+.col-position-4 {
+    margin-top: 55px !important;
+}
+
+.col-position-4 h2 {
+    color: white;
+}
+
+
+@media only screen and (width: 428px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}
+
+
+@media only screen and (width: 414px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}
+
+
+@media only screen and (width: 412px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+        .row-position-3 {
+            margin-left: 20px !important;
+            width: 100px !important;
+    }
+
+   .qqq {
+    margin-left: 40px;
+   }
+}
+
+@media only screen and (width: 390px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}
+
+
+
+@media only screen and (width: 384px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (width: 375px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (width: 360px) {
+    .col-position-4 h2 {
+        font-size: 20px !important;
+    }
+
+    .row-position-3 {
+        margin-left: 20px !important;
+        width: 100px !important;
+    }
+
+    .qqq {
+        margin-left: 40px;
+    }
+}

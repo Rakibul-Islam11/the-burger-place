@@ -1,0 +1,10 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    transition: top 0.8s ease-in-out;
+    z-index: 1000;
+}
+
+.navbar.hidden {
+    top: -100px;
+}
